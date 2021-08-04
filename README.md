@@ -1,16 +1,16 @@
 ### Hi there 👋
+# Vaganov Alexander
+---
+**Location:** Nizhny Novgorod
 
-<!--
-**Vaganov-Alexander/Vaganov-Alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Marital status:** single, no children
 
-Here are some ideas to get you started:
+[Telegram](https://telegram.me/de1i0n)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Mail](mailto:alexander-vaganov@mail.ru)
+
+---
+
+### About me
+
+I don't have any experience in IT. I just study Python, Flask and Django.
