@@ -1,6 +1,7 @@
 ### Hi there 👋
 # Vaganov Alexander
 ---
+**Age:** 31  
 **Location:** Nizhny Novgorod  
 **Marital status:** single, no children  
 [Telegram](https://telegram.me/de1i0n)  
