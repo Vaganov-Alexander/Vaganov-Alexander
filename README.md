@@ -6,8 +6,8 @@
 <div><b>Location:</b> Nizhny Novgorod</div>
 <div><b>Marital status:</b> single, no children</div>
 
-<a style="text-decoration: none;" href="https://telegram.me/de1i0n" target="_blank"> <img src="https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png" alt="Telegram" width="40" height="40"/></a>
-<a style="text-decoration: none;" href="mailto:alexander-vaganov@mail.ru" target="_blank"> <img src="https://e1.pngegg.com/pngimages/720/733/png-clipart-clay-os-6-a-macos-icon-mail-e-mail-icon-thumbnail.png" alt="Mail" width="40" height="40"/></a>
+<a style="text-decoration: none;" href="https://telegram.me/de1i0n" target="_blank"> <img src="https://www.vhv.rs/dpng/d/492-4925781_telegram-free-download-and-circle-twitter-logo-png.png" alt="Telegram" width="40" height="40"/></a>
+<a style="text-decoration: none;" href="mailto:alexander-vaganov@mail.ru" target="_blank"> <img src="https://www.epsa-online.org/wp-content/uploads/2019/08/kisspng-email-address-electronic-mailing-list-logo-interne-corrugated-tape-5ae0f197d8e2a3.6291700715246913518884.jpg" alt="Mail" width="40" height="40"/></a>
 <hr>
 
 <b>Languages and Tools:</b>
