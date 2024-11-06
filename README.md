@@ -6,7 +6,7 @@
 <div><b>Location:</b> Nizhny Novgorod</div>
 <div><b>Marital status:</b> single, no children</div>
 
-<a style="text-decoration: none;" href="https://telegram.me/Dellik52" target="_blank"> <img src="https://img.utdstc.com/icon/ae1/12a/ae112a2a5bdd9cf7a6fd50b88855b5330bdccf2c552b13ab4d9b59d9369a01cc:200" alt="Telegram" title="Telegram" width="40" height="40"/></a>
+<a style="text-decoration: none;" href="https://telegram.me/Dellik89" target="_blank"> <img src="https://img.utdstc.com/icon/ae1/12a/ae112a2a5bdd9cf7a6fd50b88855b5330bdccf2c552b13ab4d9b59d9369a01cc:200" alt="Telegram" title="Telegram" width="40" height="40"/></a>
 <a style="text-decoration: none;" href="mailto:alexander-vaganov@mail.ru" target="_blank"> <img src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" alt="Mail" title="Mail" width="40" height="40"/></a>
 <hr>
 
