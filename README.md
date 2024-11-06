@@ -2,7 +2,7 @@
 <h1>Vaganov Alexander</h1>
 <hr>
 
-<div><b>Age:</b> 32</div>
+<div><b>Age:</b> 35</div>
 <div><b>Location:</b> Nizhny Novgorod</div>
 <div><b>Marital status:</b> single, no children</div>
 
