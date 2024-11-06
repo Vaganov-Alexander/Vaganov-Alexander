@@ -16,7 +16,7 @@
 <a style="text-decoration: none;" href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://hsto.org/getpro/freelansim/allfiles/53/533/533670/839d71d825.png" alt="Django" title ="Django" width="40" height="40"/></a>
   <a style="text-decoration: none;" href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="40" height="40"/></a>
   <a style="text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="40" height="40"/></a>
-<a style="text-decoration: none;" href="https://git-scm.com/" target="_blank"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" title="Git" width="40" height="40"/></a></div>
+<a style="text-decoration: none;" href="https://git-scm.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSycA_u6TeGB6ZbgCERHMyCHOlvA0z3JtmD1A&s" alt="Git" title="Git" width="40" height="40"/></a></div>
 <hr>
 
 <h3>About me</h3>
