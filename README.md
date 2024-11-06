@@ -1,6 +1,5 @@
 <h3>Hi there 👋</h3>
 <h1>Vaganov Alexander</h1>
-<hr>
 
 <div><b>Age:</b> 35</div>
 <div><b>Location:</b> Nizhny Novgorod</div>
